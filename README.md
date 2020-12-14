@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 **🐱 My Github Data** 
 
-> 🏆 35 Contributions in the Year 2020
+> 🏆 37 Contributions in the Year 2020
  > 
 > 📦 487.5 kB Used in Github's Storage 
  > 
@@ -89,19 +89,23 @@ Here are some ideas to get you started:
 🌙 Night      21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.77%
 
 ```
-📅 **I'm Most Productive on Tuesday** 
+
+
+📊 **This Week I Spent My Time On** 
 
 ```text
-Monday       16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.21% 
-Tuesday      44 commits     █████░░░░░░░░░░░░░░░░░░░░   22.56% 
-Wednesday    36 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.46% 
-Thursday     31 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.9% 
-Friday       40 commits     █████░░░░░░░░░░░░░░░░░░░░   20.51% 
-Saturday     12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.15% 
-Sunday       16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.21%
+⌚︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
 
 ```
-
 
 **I Mostly Code in Python** 
 
@@ -113,5 +117,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
 
 ```
+
+
 
 <!--END_SECTION:waka-->
