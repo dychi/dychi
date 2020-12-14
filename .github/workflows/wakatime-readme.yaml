@@ -5,9 +5,6 @@ on:
   schedule:
     # Runs at 12am IST
     - cron: '00 19 * * *'
-  push:
-    branches:
-      - main
 
 jobs:
   update-readme:
@@ -21,9 +18,9 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_COMMIT: "True"
-          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_DAYS_OF_WEEK: "False"
           SHOW_LANGUAGE: "True"
           SHOW_OS: "False"
           SHOW_EDITORS: "True"
           SHOW_SHORT_INFO: "True"
-          SHOW_LOC_CHART: "True"
+          SHOW_LOC_CHART: "False"
