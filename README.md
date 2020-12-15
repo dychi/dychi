@@ -70,13 +70,13 @@ Here are some ideas to get you started:
 
 **🐱 My Github Data** 
 
-> 🏆 37 Contributions in the Year 2020
+> 🏆 40 Contributions in the Year 2020
  > 
 > 📦 487.5 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 35 Public Repositories 
+> 📜 36 Public Repositories 
  > 
 > 🔑 7 Private Repositories  
 
@@ -97,13 +97,19 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 3 hrs 1 min         █████████████░░░░░░░░░░░░   52.04% 
+YAML                     2 hrs 44 mins       ███████████░░░░░░░░░░░░░░   47.37% 
+Smarty                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 hrs 48 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          1 hr 41 mins        ███████░░░░░░░░░░░░░░░░░░   29.06% 
+kustomize-sample         1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   25.22% 
+ledge-theai-wordpress-app1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   23.36% 
+dychi                    1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   21.78% 
+dance-gke-app            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58%
 
 ```
 
