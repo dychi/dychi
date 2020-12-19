@@ -46,8 +46,9 @@
 
 #### Tools
 <p>
-<img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Git-F44D27?style=flat&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=GitHub%20Actions&logoColor=white"/>
 </p>
 
 <!--
