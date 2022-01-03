@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2022
+> 🏆 5 Contributions in the Year 2022
  > 
 > 📦 490.9 kB Used in GitHub's Storage 
  > 
@@ -86,9 +86,9 @@ Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    59 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.22% 
+🌞 Morning    55 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.73% 
 🌆 Daytime    328 commits    ██████████░░░░░░░░░░░░░░░   40.15% 
-🌃 Evening    296 commits    █████████░░░░░░░░░░░░░░░░   36.23% 
+🌃 Evening    300 commits    █████████░░░░░░░░░░░░░░░░   36.72% 
 🌙 Night      134 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.4%
 
 ```
@@ -100,10 +100,11 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       2 hrs 30 mins       █████████████████████████   100.0% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 30 mins       █████████████████████████   100.0%
 
 ```
 
@@ -120,5 +121,5 @@ Go                       4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2022
+ Last Updated on 03/01/2022
 <!--END_SECTION:waka-->
