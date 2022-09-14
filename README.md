@@ -69,13 +69,13 @@ Here are some ideas to get you started:
 -->
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C528%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C532%20hrs%2048%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,162 Contributions in the Year 2022
+> 🏆 1,169 Contributions in the Year 2022
  > 
 > 📦 575.1 kB Used in GitHub's Storage 
  > 
@@ -85,34 +85,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 11 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    59 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.77% 
-🌆 Daytime    363 commits    ██████████░░░░░░░░░░░░░░░   41.63% 
-🌃 Evening    274 commits    ███████░░░░░░░░░░░░░░░░░░   31.42% 
-🌙 Night      176 commits    █████░░░░░░░░░░░░░░░░░░░░   20.18%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Go                       8 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   40.02% 
-YAML                     5 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   27.65% 
-Other                    2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.85% 
-JSON                     1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.81% 
-TypeScript               1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.51%
-
-🔥 Editors: 
-VS Code                  20 hrs 17 mins      █████████████████████████   100.0%
-
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -126,5 +98,5 @@ Vue                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2022 19:21:34 UTC
+ Last Updated on 14/09/2022 19:25:36 UTC
 <!--END_SECTION:waka-->
