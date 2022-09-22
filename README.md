@@ -69,13 +69,13 @@ Here are some ideas to get you started:
 -->
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C546%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C550%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,185 Contributions in the Year 2022
+> 🏆 1,187 Contributions in the Year 2022
  > 
 > 📦 575.3 kB Used in GitHub's Storage 
  > 
@@ -116,15 +116,15 @@ VS Code                  12 hrs 28 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   10 repos            █████░░░░░░░░░░░░░░░░░░░░   19.61% 
-TypeScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.69% 
-Jupyter Notebook         7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.73% 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.84% 
-Vue                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.84%
+Python                   10 repos            ████░░░░░░░░░░░░░░░░░░░░░   19.23% 
+TypeScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+Jupyter Notebook         7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.46% 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
 
 ```
 
 
 
- Last Updated on 21/09/2022 19:28:36 UTC
+ Last Updated on 22/09/2022 19:20:39 UTC
 <!--END_SECTION:waka-->
