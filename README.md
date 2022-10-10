@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 -->
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C605%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C607%20hrs%206%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 > 🏆 1,297 Contributions in the Year 2022
  > 
-> 📦 580.6 kB Used in GitHub's Storage 
+> 📦 580.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -102,14 +102,14 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Go                       14 hrs 25 mins      ███████████████░░░░░░░░░░   60.15% 
-TypeScript               3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.69% 
-JSON                     2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.79% 
-YAML                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.01% 
-Markdown                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.39%
+Go                       11 hrs 3 mins       █████████████░░░░░░░░░░░░   55.44% 
+TypeScript               3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.45% 
+JSON                     2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.55% 
+YAML                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.57% 
+Markdown                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.28%
 
 🔥 Editors: 
-VS Code                  23 hrs 58 mins      █████████████████████████   100.0%
+VS Code                  19 hrs 57 mins      █████████████████████████   100.0%
 
 ```
 
@@ -126,5 +126,5 @@ Vue                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2022 19:26:13 UTC
+ Last Updated on 10/10/2022 19:29:48 UTC
 <!--END_SECTION:waka-->
