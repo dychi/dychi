@@ -69,13 +69,13 @@ Here are some ideas to get you started:
 -->
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C659%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C663%20hrs%2025%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,438 Contributions in the Year 2022
+> 🏆 1,442 Contributions in the Year 2022
  > 
 > 📦 575.6 kB Used in GitHub's Storage 
  > 
@@ -102,14 +102,14 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               5 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   32.76% 
-Go                       2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.04% 
-Terraform                2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.94% 
-JavaScript               1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Dart                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.83%
+Go                       4 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   38.65% 
+Terraform                2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.64% 
+Dart                     1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.91% 
+JavaScript               1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.31% 
+Other                    58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.73%
 
 🔥 Editors: 
-VS Code                  17 hrs 20 mins      █████████████████████████   100.0%
+VS Code                  12 hrs 42 mins      █████████████████████████   100.0%
 
 ```
 
@@ -126,5 +126,5 @@ JavaScript               4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/11/2022 19:18:47 UTC
+ Last Updated on 08/11/2022 19:27:11 UTC
 <!--END_SECTION:waka-->
