@@ -102,12 +102,10 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   45 mins             █████████████████████████   99.56% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  45 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -124,5 +122,5 @@ JavaScript               4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2023 19:17:30 UTC
+ Last Updated on 03/01/2023 19:18:10 UTC
 <!--END_SECTION:waka-->
