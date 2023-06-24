@@ -69,9 +69,9 @@ Here are some ideas to get you started:
 -->
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C240%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C241%20hrs%2015%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-83.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-83.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -88,10 +88,10 @@ Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                7279 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-🌆 Daytime                66366 commits       ███████████░░░░░░░░░░░░░░   42.19 % 
-🌃 Evening                48434 commits       ████████░░░░░░░░░░░░░░░░░   30.79 % 
-🌙 Night                  35230 commits       ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
+🌞 Morning                7326 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+🌆 Daytime                66635 commits       ███████████░░░░░░░░░░░░░░   42.20 % 
+🌃 Evening                48605 commits       ████████░░░░░░░░░░░░░░░░░   30.78 % 
+🌙 Night                  35330 commits       ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
 ```
 
 
@@ -124,5 +124,5 @@ Rust                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/06/2023 19:39:33 UTC
+ Last Updated on 24/06/2023 19:41:23 UTC
 <!--END_SECTION:waka-->
