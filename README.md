@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 -->
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C324%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C325%20hrs%2036%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-95.4%20million%20lines%20of%20code-blue)
 
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 > 📦 607.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,408 Contributions in the Year 2023
+> 🏆 1,409 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,14 +101,14 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Terraform                3 hrs 21 mins       ████████████████░░░░░░░░░   62.19 % 
-Ezhil                    34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-YAML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-Other                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-Go                       17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Terraform                2 hrs 24 mins       ███████████████░░░░░░░░░░   61.76 % 
+Ezhil                    34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Go                       17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+ActionScript 3           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 23 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -124,5 +124,5 @@ Rust                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2023 19:38:43 UTC
+ Last Updated on 11/10/2023 19:38:35 UTC
 <!--END_SECTION:waka-->
