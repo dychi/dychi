@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C326%20hrs%2021%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-98.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-98.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -88,10 +88,10 @@ Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                9302 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-🌆 Daytime                75950 commits       ███████████░░░░░░░░░░░░░░   42.68 % 
-🌃 Evening                54558 commits       ████████░░░░░░░░░░░░░░░░░   30.66 % 
-🌙 Night                  38146 commits       █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
+🌞 Morning                9366 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+🌆 Daytime                76158 commits       ███████████░░░░░░░░░░░░░░   42.70 % 
+🌃 Evening                54665 commits       ████████░░░░░░░░░░░░░░░░░   30.65 % 
+🌙 Night                  38148 commits       █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
 ```
 
 
@@ -101,11 +101,10 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               5 mins              ████████████████████████░   96.75 % 
-Vue.js                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -121,5 +120,5 @@ Rust                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/11/2023 19:44:07 UTC
+ Last Updated on 04/11/2023 19:37:57 UTC
 <!--END_SECTION:waka-->
