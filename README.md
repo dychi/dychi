@@ -69,13 +69,15 @@ Here are some ideas to get you started:
 -->
 ---
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-100.7%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C326%20hrs%2040%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-101.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 607.6 kB Used in GitHub's Storage 
+> 📦 607.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,615 Contributions in the Year 2023
+> 🏆 1,621 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,10 +88,10 @@ Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                9910 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-🌆 Daytime                78034 commits       ███████████░░░░░░░░░░░░░░   42.84 % 
-🌃 Evening                55872 commits       ████████░░░░░░░░░░░░░░░░░   30.68 % 
-🌙 Night                  38322 commits       █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+🌞 Morning                9972 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+🌆 Daytime                78348 commits       ███████████░░░░░░░░░░░░░░   42.86 % 
+🌃 Evening                56061 commits       ████████░░░░░░░░░░░░░░░░░   30.67 % 
+🌙 Night                  38425 commits       █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
 ```
 
 
@@ -99,12 +101,10 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-YAML                     16 mins             ██████████████████████░░░   86.31 % 
-Markdown                 2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -120,5 +120,5 @@ Rust                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/11/2023 19:38:52 UTC
+ Last Updated on 24/11/2023 19:39:52 UTC
 <!--END_SECTION:waka-->
