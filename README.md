@@ -69,13 +69,15 @@ Here are some ideas to get you started:
 -->
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C326%20hrs%2044%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-101.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 607.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,734 Contributions in the Year 2023
+> 🏆 1,803 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -83,6 +85,28 @@ Here are some ideas to get you started:
  > 
 > 🔑 13 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                10206 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+🌆 Daytime                79039 commits       ███████████░░░░░░░░░░░░░░   42.79 % 
+🌃 Evening                56897 commits       ████████░░░░░░░░░░░░░░░░░   30.80 % 
+🌙 Night                  38572 commits       █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -96,5 +120,5 @@ Rust                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/12/2023 19:45:06 UTC
+ Last Updated on 13/12/2023 19:45:35 UTC
 <!--END_SECTION:waka-->
