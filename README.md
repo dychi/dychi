@@ -69,6 +69,8 @@ Here are some ideas to get you started:
 -->
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C326%20hrs%2044%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -116,5 +118,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/04/2024 19:19:36 UTC
+ Last Updated on 12/04/2024 19:20:39 UTC
 <!--END_SECTION:waka-->
