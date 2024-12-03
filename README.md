@@ -69,13 +69,15 @@ Here are some ideas to get you started:
 -->
 ---
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60.6%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C326%20hrs%2044%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 634.5 kB Used in GitHub's Storage 
+> 📦 634.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,236 Contributions in the Year 2024
+> 🏆 1,254 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,10 +88,10 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                7396 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-🌆 Daytime                26180 commits       ████████████░░░░░░░░░░░░░   48.61 % 
-🌃 Evening                17368 commits       ████████░░░░░░░░░░░░░░░░░   32.25 % 
-🌙 Night                  2914 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+🌞 Morning                7332 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+🌆 Daytime                25937 commits       ████████████░░░░░░░░░░░░░   48.78 % 
+🌃 Evening                17068 commits       ████████░░░░░░░░░░░░░░░░░   32.10 % 
+🌙 Night                  2832 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
 ```
 
 
@@ -118,5 +120,5 @@ PHP                      7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 02/12/2024 19:25:14 UTC
+ Last Updated on 03/12/2024 19:24:47 UTC
 <!--END_SECTION:waka-->
