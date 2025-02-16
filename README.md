@@ -69,7 +69,9 @@ Here are some ideas to get you started:
 -->
 ---
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60.5%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C326%20hrs%2044%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -86,10 +88,10 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                8033 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-🌆 Daytime                27521 commits       ████████████░░░░░░░░░░░░░   49.83 % 
-🌃 Evening                17212 commits       ████████░░░░░░░░░░░░░░░░░   31.16 % 
-🌙 Night                  2468 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+🌞 Morning                8028 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+🌆 Daytime                27636 commits       ████████████░░░░░░░░░░░░░   49.90 % 
+🌃 Evening                17253 commits       ████████░░░░░░░░░░░░░░░░░   31.15 % 
+🌙 Night                  2467 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 ```
 
 
@@ -118,5 +120,5 @@ PHP                      8 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 15/02/2025 19:17:45 UTC
+ Last Updated on 16/02/2025 19:19:38 UTC
 <!--END_SECTION:waka-->
