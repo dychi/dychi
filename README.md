@@ -69,13 +69,15 @@ Here are some ideas to get you started:
 -->
 ---
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.2%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C326%20hrs%2044%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 634.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,206 Contributions in the Year 2025
+> 🏆 1,209 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,10 +88,10 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2647 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-🌆 Daytime                10603 commits       ███████████░░░░░░░░░░░░░░   42.26 % 
-🌃 Evening                9154 commits        █████████░░░░░░░░░░░░░░░░   36.48 % 
-🌙 Night                  2688 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+🌞 Morning                2620 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+🌆 Daytime                10079 commits       ███████████░░░░░░░░░░░░░░   44.21 % 
+🌃 Evening                8057 commits        █████████░░░░░░░░░░░░░░░░   35.34 % 
+🌙 Night                  2040 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
 ```
 
 
@@ -108,7 +110,7 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               19 repos            █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+TypeScript               18 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
 HCL                      10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
 Go                       10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
 PHP                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
@@ -118,5 +120,5 @@ HTML                     6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2025 19:48:51 UTC
+ Last Updated on 31/08/2025 19:47:01 UTC
 <!--END_SECTION:waka-->
