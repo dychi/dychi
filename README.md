@@ -69,15 +69,13 @@ Here are some ideas to get you started:
 -->
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C326%20hrs%2044%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 634.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,220 Contributions in the Year 2025
+> 🏆 1,221 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -85,28 +83,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 16 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1430 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-🌆 Daytime                6198 commits        ███████████░░░░░░░░░░░░░░   43.68 % 
-🌃 Evening                5013 commits        █████████░░░░░░░░░░░░░░░░   35.33 % 
-🌙 Night                  1548 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -120,5 +96,5 @@ HTML                     6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2025 19:54:44 UTC
+ Last Updated on 16/09/2025 19:49:17 UTC
 <!--END_SECTION:waka-->
