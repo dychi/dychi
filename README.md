@@ -69,13 +69,15 @@ Here are some ideas to get you started:
 -->
 ---
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.7%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C326%20hrs%2044%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 634.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,556 Contributions in the Year 2025
+> 🏆 1,559 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -83,10 +85,32 @@ Here are some ideas to get you started:
  > 
 > 🔑 16 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2295 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+🌆 Daytime                11733 commits       ████████████░░░░░░░░░░░░░   48.63 % 
+🌃 Evening                8389 commits        █████████░░░░░░░░░░░░░░░░   34.77 % 
+🌙 Night                  1712 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               18 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+TypeScript               19 repos            █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
 Go                       11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
 HCL                      10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
 PHP                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
@@ -96,5 +120,5 @@ HTML                     6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2025 19:52:31 UTC
+ Last Updated on 04/11/2025 19:58:57 UTC
 <!--END_SECTION:waka-->
