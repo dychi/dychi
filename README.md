@@ -69,7 +69,9 @@ Here are some ideas to get you started:
 -->
 ---
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-117.03%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C327%20hrs%2017%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-117.04%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -83,6 +85,28 @@ Here are some ideas to get you started:
  > 
 > 🔑 16 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                6439 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+🌆 Daytime                27628 commits       █████████████░░░░░░░░░░░░   51.63 % 
+🌃 Evening                18264 commits       █████████░░░░░░░░░░░░░░░░   34.13 % 
+🌙 Night                  1178 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -96,5 +120,5 @@ HCL                      9 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 23/05/2026 20:19:46 UTC
+ Last Updated on 24/05/2026 20:21:19 UTC
 <!--END_SECTION:waka-->
