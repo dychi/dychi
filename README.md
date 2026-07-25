@@ -69,7 +69,9 @@ Here are some ideas to get you started:
 -->
 ---
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-392.76%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C327%20hrs%2017%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-397.75%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -86,10 +88,10 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                14529 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-🌆 Daytime                54134 commits       ████████████░░░░░░░░░░░░░   47.10 % 
-🌃 Evening                43193 commits       █████████░░░░░░░░░░░░░░░░   37.58 % 
-🌙 Night                  3070 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+🌞 Morning                14633 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+🌆 Daytime                54437 commits       ████████████░░░░░░░░░░░░░   47.05 % 
+🌃 Evening                43522 commits       █████████░░░░░░░░░░░░░░░░   37.62 % 
+🌙 Night                  3103 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 ```
 
 
@@ -118,5 +120,5 @@ HTML                     6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 21:26:53 UTC
+ Last Updated on 25/07/2026 21:11:38 UTC
 <!--END_SECTION:waka-->
